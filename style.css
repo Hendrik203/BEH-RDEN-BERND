@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 50px;
+    background-color: black;
+    align-content: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
